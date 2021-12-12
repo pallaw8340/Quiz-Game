@@ -37,9 +37,8 @@
 
 # Other games
 Do check out my other games
-- [Trivia Knowledge](https://github.com/sarveshchavan7/Trivia-Knowledge)
-- [Angry Birds](https://github.com/sarveshchavan7/AngryBirds)
-- [Math Game](https://github.com/sarveshchavan7/Math-game)
+
+
 
 
 # License
